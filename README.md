@@ -1,0 +1,2 @@
+# side-quests
+hallway scavengerhunt
